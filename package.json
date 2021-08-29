@@ -1,0 +1,16 @@
+{
+  "name": "e-clothing-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "midtrans-client": "^1.2.4",
+    "nodemon": "^2.0.12"
+  }
+}
